@@ -1,16 +1,13 @@
 
-![Angular Build](https://github.com/Stier-Solution/p2p.UI/workflows/Angular%20Build/badge.svg)
+ 
 
-# P2P: practice2perfection
+#  
+MatkadaddyWeb: MatkadaddyWeb
 This repository is the UI Layer (View) for the Practice2Perfection Product bundle.   
 
 # Getting Started
 To start using this repository please create a fork and clone to local, then install the using `npm install` once done use `npm run build` command to build the application. If build process properly completed without any issue then use command `ng serve -o` to run the server and launch the application in live reload environment.
-
-Modify `generic-api-url.service.ts` to point to desired server for development and testing.
-```.ts
-_apiUrl: string = 'https://stagingapi.practice2perfection.com';
-```
+ 
 # Contribute
 To contribute to the repository you need to fork and then clone this repository to local machine and for any changes need to be done should be gone through the pull requested using the fork. Also you need to have member access to raise the pull request of the repository. If you need then please contact the maintainers of this repository.
 
